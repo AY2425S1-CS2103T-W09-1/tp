@@ -11,6 +11,7 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 import java.util.function.Predicate;
 
@@ -218,6 +219,11 @@ public class AddCommandTest {
 
         @Override
         public boolean isJobPresent(Job job) {
+            throw new AssertionError("This method should not be called.");
+        }
+
+        @Override
+        public void setPersons(List<Person> persons) {
             throw new AssertionError("This method should not be called.");
         }
     }
