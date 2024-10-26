@@ -124,6 +124,7 @@
         "view-a-person-s-status-by-name-and-job-view": "View a person's status by name and job: view",
         "locating-persons-by-name-find": "Locating persons by name: find",
         "deleting-a-person-delete": "Deleting a person : delete",
+        "sorting-persons-by-interview-scores-sort": "Sorting persons by interview scores : sort",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
