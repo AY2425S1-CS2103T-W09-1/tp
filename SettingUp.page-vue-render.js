@@ -20,7 +20,7 @@ with(this){return _c('li',[_c('strong',[_v("Configure the JDK")]),_v(": Follow t
 with(this){return _c('a',{attrs:{"href":"https://se-education.org/guides/tutorials/intellijImportGradleProject.html"}},[_c('em',[_v("[se-edu/guides] IDEA: Importing a Gradle project")])])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('strong',[_v("Verify the setup")]),_v(":\n"),_c('ol',[_c('li',[_v("Run the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("seedu.address.Main")]),_v(" and try a few commands.")]),_v(" "),_c('li',[_c('a',{attrs:{"href":"/tp/Testing.html"}},[_v("Run the tests")]),_v(" to ensure they all pass.")])])])}
+with(this){return _c('li',[_c('strong',[_v("Verify the setup")]),_v(":\n"),_c('ol',[_c('li',[_v("Run the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("seedu.hiredfiredpro.Main")]),_v(" and try a few commands.")]),_v(" "),_c('li',[_c('a',{attrs:{"href":"/tp/Testing.html"}},[_v("Run the tests")]),_v(" to ensure they all pass.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"before-writing-code"}},[_v("Before writing code"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#before-writing-code","onclick":"event.stopPropagation()"}})])}
@@ -38,6 +38,6 @@ with(this){return _c('li',[_c('p',[_c('strong',[_v("Set up CI")])]),_v(" "),_c('
 with(this){return _c('li',[_c('p',[_c('strong',[_v("Learn the design")])]),_v(" "),_c('p',[_v("When you are ready to start coding, we recommend that you get some sense of the overall design by reading about "),_c('a',{attrs:{"href":"/tp/DeveloperGuide.html#architecture"}},[_v("HiredFiredPro’s architecture")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 5 Nov 2024, 13:34:27 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 5 Nov 2024, 17:28:44 GMT+8]")])])])}
 }];
   
