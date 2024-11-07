@@ -63,6 +63,7 @@
         "use-case-3-view-candidate-list": "Use Case 3: View Candidate List",
         "use-case-4-view-candidate-status": "Use Case 4: View Candidate Status",
         "use-case-5-mark-candidate-status-as-hired-or-rejected": "Use Case 5: Mark Candidate Status as Hired or Rejected",
+        "use-case-6-sort-list-of-candidates-in-ascending-descending-order": "Use Case 6: Sort list of candidates in ascending/descending order",
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
